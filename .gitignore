@@ -116,6 +116,7 @@ buildNumber.properties
 
 #################### Eclipse.gitignore ####################
 
+backup/
 .metadata
 bin/
 tmp/
